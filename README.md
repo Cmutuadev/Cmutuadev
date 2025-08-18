@@ -1,4 +1,4 @@
-#### Collins Mutua
+#Collins Mutua
 ## Programming Student | Aspiring Software Developer
 
 ### About Me
@@ -23,9 +23,10 @@ Hi there...I'm Collins Mutua, currently taking programming classes. I have a bas
 I'm always excited to connect with fellow developers and learners!
 
 **Email:** collinsmutua92@gmail.com
+
 **Social Media**
 - [Telegram](https://t.me/nairobiangoon)
 - [WhatsApp](https://w.me://+254702700072) 
 - [Instagram](https://www.instagram.com/nylgoon._)
 
-*Thank you for visiting my profile feel free to reachout!..**
+*Thank you for visiting my profile feel free to reachout!..*
