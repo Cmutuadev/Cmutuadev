@@ -5,7 +5,7 @@
 Hi there...I'm Collins Mutua, currently taking programming classes. I have a basic understanding of Python and  I'm familiar with Git and GitHub. I'm passionate about learning and building my skills in programming.
 
 ### What I'm Learning
-- **Python (basics)**
+- **Python**
 - **HTML & CSS**
 - **Git & GitHub**
 - **JavaScript**
