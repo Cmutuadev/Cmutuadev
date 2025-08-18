@@ -19,11 +19,10 @@ Hi there...I'm Collins Mutua, currently taking programming classes. I have a bas
 ### Current Project
 **Creating an appealing README profile**- Learning how to present myself professionally on GitHub and connect with the developer community.
 
-### Connect With Me
+### Contact Me
 I'm always excited to connect with fellow developers and learners!
 
 **Email:** collinsmutua92@gmail.com
-
 **Social Media**
 - [Telegram](https://t.me/nairobiangoon)
 - [WhatsApp](https://w.me://+254702700072) 
