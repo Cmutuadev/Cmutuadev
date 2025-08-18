@@ -1,17 +1,14 @@
-## Hi there 👋
-
-
-# Collins Mutua
+#### Collins Mutua
 ## Programming Student | Aspiring Software Developer
 
 ### About Me
 Hi there...I'm Collins Mutua, currently taking programming classes. I have a basic understanding of Python and  I'm familiar with Git and GitHub. I'm passionate about learning and building my skills in programming.
 
 ### What I'm Learning
-- **Python*
-- **HTML & CSS*
-- **Git & GitHub*
-- **JavaScript*
+- **Python**
+- **HTML & CSS**
+- **Git & GitHub**
+- **JavaScript**
 
 ### My Goals
 - Master Python programming 
@@ -25,11 +22,11 @@ Hi there...I'm Collins Mutua, currently taking programming classes. I have a bas
 ### Connect With Me
 I'm always excited to connect with fellow developers and learners!
 
-**Email:* collinsmutua92@gmail.com
+**Email:** collinsmutua92@gmail.com
 
-**Social Media*
+**Social Media**
 - [Telegram](https://t.me/nairobiangoon)
-- [WhatsApp](w.me://254702700072) 
+- [WhatsApp](https://w.me://+254702700072) 
 - [Instagram](https://www.instagram.com/nylgoon._)
 
 *Thank you for visiting my profile feel free to reachout!..**
