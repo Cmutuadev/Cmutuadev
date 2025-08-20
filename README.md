@@ -4,7 +4,7 @@
 ---
 
 ### About Me  
-Hi there! I'm Collins Mutua, a programming student with a growing passion for coding and software development. I have a basic understanding of Python and am familiar with Git and GitHub. I am eager to learn, build projects, and contribute to the tech community.
+Hi there! I'm Collins Mutua, a programming student with a growing passion for coding and software development. I have a basic understanding of Python and I'm familiar with Git and GitHub. I am eager to learn, build projects, and contribute to the tech community.
 
 ---
 
