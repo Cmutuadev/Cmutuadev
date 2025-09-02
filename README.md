@@ -36,7 +36,7 @@ I’m always excited to connect with fellow developers and learners Feel free to
 
 [![Email Me](https://img.shields.io/badge/Email-collinsmutua92@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:collinsmutua92@gmail.com)  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nairobiangoon)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.me://+254702700072)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me://+254702700072)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nylgoon._)
 
 ---
